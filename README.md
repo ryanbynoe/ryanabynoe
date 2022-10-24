@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryanabynoe">Solutions Architect</a>, <a href="https://www.linkedin.com/in/ryanbynoe/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practic)
@@ -10,7 +10,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
-<h2>☁️ Coding Projects:</h2>
+<h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
